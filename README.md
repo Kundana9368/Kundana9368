@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/kundana mandapaka](https://www.linkedin.com/in/kundana-mandapaka-267531206/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundana mandapaka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kundana-mandapaka-267531206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kundana mandapaka" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/kundanamandapaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kundanamandapaka" height="30" width="40" /></a>
 </p>
 </p>
