@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundana9368&label=Profile%20views&color=0e75b6&style=flat" alt="kundana9368" /> </p>
 
-- 🔭 I’m currently working on **Layoff Analysis Around The World Post Covid: Companies, Profits, and Industry Trends**
+- 🔭 I’m currently working on **Unicorn Companies Analysis**
 
 - 🌱 I’m currently learning **AWS**
 
