@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **<kundana.mandapaka@gmail.com>**
 
-- 📄 Know about my experiences [Kundana Mandapaka](https://www.linkedin.com/in/kundana-mandapaka-267531206/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
